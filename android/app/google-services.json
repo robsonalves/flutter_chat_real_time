@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400867437489",
+    "firebase_url": "https://flutter-app-4a076.firebaseio.com",
+    "project_id": "flutter-app-4a076",
+    "storage_bucket": "flutter-app-4a076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400867437489:android:6e858e9e9cfd87a6e6eb90",
+        "android_client_info": {
+          "package_name": "alves.com.br.flutter_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400867437489-4c0rmeks6tauclblmslpkcva9mmhj9er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alves.com.br.flutter_chat",
+            "certificate_hash": "fd2371576eefab87313ea19467b533765a3df052"
+          }
+        },
+        {
+          "client_id": "400867437489-2oih7lecv5mepl1khkgk5nsdoiop90r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL6nmmxEw_dRnV3hsDRDE_pV1W8Al_Oow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400867437489-2oih7lecv5mepl1khkgk5nsdoiop90r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
